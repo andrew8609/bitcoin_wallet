@@ -16,7 +16,6 @@ const BaseRoutes = () => {
                 <Route path="/wallet" element={<Wallet />} />
             </Routes>
         </>
-        
     );
 };
 
